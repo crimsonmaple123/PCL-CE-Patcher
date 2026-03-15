@@ -24,7 +24,7 @@ PCL CE Patcher 是一个针对 **PCL CE (Plain Craft Launcher 2 Community Editio
 ## 系统要求
 
 - Windows 10 / 11
-- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) 或 [.NET 8.0 Runtime](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) 或更高版本（8.0 / 9.0 / 10.0 均可）
 - PCL CE (Plain Craft Launcher 2 Community Edition)
 
 ## 使用方法
