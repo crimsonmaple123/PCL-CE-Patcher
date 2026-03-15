@@ -1,4 +1,4 @@
-# PCL CE Patcher
+# PCL CE Patcher | PCL CE 离线模式修补工具
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/crimsonmaple123/PCL-CE-Patcher) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![.NET](https://img.shields.io/badge/.NET-8.0-purple.svg) [![Bilibili](https://img.shields.io/badge/Bilibili-Space-00a1d6?logo=bilibili&logoColor)](https://space.bilibili.com/579852212)
 
