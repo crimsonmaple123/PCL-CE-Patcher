@@ -7,6 +7,7 @@
 ## 项目介绍
 
 PCL CE Patcher 是一个针对 **PCL CE (Plain Craft Launcher 2 Community Edition)** 的修补工具。
+本项目使用Claude建造，可能出现未知bug
 
 ### 工作原理
 
@@ -77,9 +78,7 @@ PCL_CE_Patch/
 3. **非官方项目**：本项目与 PCL2 原作者（龙腾猫跃）及 PCL CE 社区开发组无任何关联。使用本工具后遇到的问题，请不要向官方仓库反馈。
 4. **风险自担**：本软件按"原样"提供，不提供任何担保。
 
-## 许可证
 
-本项目源代码遵循 [MIT License](LICENSE) 开源协议
 
 
 
