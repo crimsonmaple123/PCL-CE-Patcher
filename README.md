@@ -4,12 +4,12 @@
 
 **一个用于 PCL CE (社区版) 的离线模式修补工具。**
 
-**目前已失效**
+**目前已失效，以后某天有空了再重做一个**
 
 ## 项目介绍
 
 PCL CE Patcher 是一个针对 **PCL CE (Plain Craft Launcher 2 Community Edition)** 的修补工具。<br>
-**本项目使用Claude建造，可能出现未知bug。**
+**本项目纯由Claude完成，可能出现未知bug。**
 
 ### 工作原理
 
